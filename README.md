@@ -54,7 +54,7 @@ Apply machine learning to solve real-world challenge: credit card risk
 
 ### Balanced Random Forest Classifier
 
-
+<img width="800" alt="Balanced Random Forest Classifier" src="https://user-images.githubusercontent.com/107021231/194178726-2b30cfad-72a9-4c85-bb45-5301f487123a.png">
 
 
 * Balanced accuracy: 
@@ -64,6 +64,7 @@ Apply machine learning to solve real-world challenge: credit card risk
 
 ### Easy Ensemble AdaBoost Classifier 
 
+<img width="800" alt="Easy Ensemble AdaBoost Classifier" src="https://user-images.githubusercontent.com/107021231/194178942-fec1e085-5a34-4ab5-b2dc-669b5b034c66.png">
 
 
 * Balanced accuracy: 
