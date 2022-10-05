@@ -17,17 +17,17 @@ Apply machine learning to solve real-world challenge: credit card risk
 <img width="800" alt="Naive Random Sampling" src="https://user-images.githubusercontent.com/107021231/194020347-1f594286-eaca-4968-a3e5-574478a5a732.png">
 
 * Balanced accuracy: ~0.66
-* Precision: 
-* Recall: 
+* Precision: High-Risk (low precision); Low-Risk (high precision) 
+* Recall: High/Low-risk = 0.62/0.68
 
 
 ### SMOTE Oversampling
 
 <img width="800" alt="SMOTE Oversampling" src="https://user-images.githubusercontent.com/107021231/194020362-a92ce95f-f662-43eb-99d7-49ab72a03414.png">
 
-* Balanced accuracy: 
-* Precision: 
-* Recall: 
+* Balanced accuracy: ~0.63
+* Precision: High-Risk (low precision); Low-Risk (high precision) 
+* Recall: High/Low-risk = 0.69/0.62
 
 
 
@@ -36,9 +36,9 @@ Apply machine learning to solve real-world challenge: credit card risk
 
 <img width="800" alt="Undersampling" src="https://user-images.githubusercontent.com/107021231/194020389-f7e88be7-b58f-468c-911f-ca8f9950102d.png">
 
-* Balanced accuracy: 
-* Precision: 
-* Recall: 
+* Balanced accuracy: ~0.63
+* Precision: High-Risk (low precision); Low-Risk (high precision) 
+* Recall: High/Low-risk = 0.59/0.44
 
 
 
@@ -46,9 +46,9 @@ Apply machine learning to solve real-world challenge: credit card risk
 
 <img width="800" alt="Combination (under   over) Sampling" src="https://user-images.githubusercontent.com/107021231/194020437-9671d7d3-36bd-4993-b18f-3d0bd7eb3fbc.png">
 
-* Balanced accuracy: 
-* Precision: 
-* Recall: 
+* Balanced accuracy: ~0.52
+* Precision: High-Risk (low precision); Low-Risk (high precision) 
+* Recall: High/Low-risk = 0.71/0.53
 
 
 
@@ -57,9 +57,9 @@ Apply machine learning to solve real-world challenge: credit card risk
 <img width="800" alt="Balanced Random Forest Classifier" src="https://user-images.githubusercontent.com/107021231/194178726-2b30cfad-72a9-4c85-bb45-5301f487123a.png">
 
 
-* Balanced accuracy: 
-* Precision: 
-* Recall: 
+* Balanced accuracy: ~0.78
+* Precision:  High-Risk (low precision); Low-Risk (high precision) 
+* Recall: High/Low-risk = 0.67/0.91
 
 
 ### Easy Ensemble AdaBoost Classifier 
@@ -67,9 +67,9 @@ Apply machine learning to solve real-world challenge: credit card risk
 <img width="800" alt="Easy Ensemble AdaBoost Classifier" src="https://user-images.githubusercontent.com/107021231/194178942-fec1e085-5a34-4ab5-b2dc-669b5b034c66.png">
 
 
-* Balanced accuracy: 
-* Precision: 
-* Recall: 
+* Balanced accuracy:  ~0.92
+* Precision:  High-Risk (low precision); Low-Risk (high precision) 
+* Recall: High/Low-risk = 0.90/0.94
 
 
 ## Summary
