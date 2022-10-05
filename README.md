@@ -73,6 +73,5 @@ Apply machine learning to solve real-world challenge: credit card risk
 
 ## Summary
 
-
-The adva
+When working with balanced accuracy (the highest compared accuracy between 0 and 1), the closest to 1 is the best machine learning model. In this case, for this credit card data set, the Easy Ensemble AdaBoost Classifier was the best model to choose with its 93% accuracy and a high recall score. Overall, the Ensemble AdaBoost Classifier was the best machine learning model to choose for futher credit card analysis due to its good balance between precision and sensitivity, as well as accuracy. 
 
