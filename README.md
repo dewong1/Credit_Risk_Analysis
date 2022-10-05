@@ -1,5 +1,6 @@
 # Credit_Risk_Analysis
-Apply machine learning to solve real-world challenge: credit card risk (build skills in data preparation, statistical reasoning, and machine learning) 
+Apply machine learning to solve real-world challenge: credit card risk 
+(build skills in data preparation, statistical reasoning, and machine learning) 
 
 ## Overview of Project
 
